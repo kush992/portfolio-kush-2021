@@ -1,0 +1,85 @@
+{
+  "main": {
+    "name": "Kush Bhalodi",
+    "occupation": "Junior Front-end Developer & QA",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi, everybody! I am Kush. I have been coding for over two years now. As a front-end developer and QA, I have worked with both large companies and small businesses to develop & take their business on the internet & improve the user experience of their users. In doing so, I have found that I am very interested in the projects that challenge me. I mainly take on front-end projects. The clients I have worked with are satisfied, and I expect to add many more soon.",
+    "email": "kush.bhal1999@gmail.com",
+    "phone": "+48 579334059",
+    "address": {
+      "street": "Modzelewskiego 10",
+      "city": "Warsaw",
+      "state": "Poland",
+      "zip": "02-679"
+    },
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/kush_115",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kush.bhalodi",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kush-bhalodi-b11991184",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_k_u_s_h__1999/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kush992",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Vistula University",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "March 2021",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Betfan",
+        "title": "Junior Front-end Developer & QA",
+        "years": "June 2021 - Present",
+        "description": "Developing the features for the websites, creating the test plans/test cases to perform the tests on the website and reporting it."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "40%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ]
+  }
+}
